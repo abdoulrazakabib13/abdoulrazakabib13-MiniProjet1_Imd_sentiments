@@ -21,4 +21,6 @@ Il existe un risque de biais (styles d’écriture, vocabulaire, sarcasme) : cer
 SHAP améliore la transparence mais n’assure pas une causalité.
 Pour un déploiement réel : il faut monitoring, tests sur données représentatives, et éviter les usages à fort enjeu sans validation.
 
-
+## Références
+- Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, Christopher Potts.
+  *Learning Word Vectors for Sentiment Analysis*. ACL 2011. (IMDb Large Movie Review Dataset / aclImdb)
