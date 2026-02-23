@@ -1,0 +1,8 @@
+
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+shap
+codecarbon
